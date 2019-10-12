@@ -1,0 +1,1 @@
+x = ga(@ZuoBiaoFangCheng,3, [], [], [], [], 0, 2 * pi, [], gaoptimset('CrossoverFraction', 0.3))
